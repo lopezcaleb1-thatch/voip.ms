@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CalebLopez\\source\\repos\\VoIP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D6DE4B-BF0E-40C7-B469-8860B59617E0}|Console_Auto_SMS\\Console_Auto_SMS.csproj|c:\\users\\caleblopez\\source\\repos\\voip\\console_auto_sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D6DE4B-BF0E-40C7-B469-8860B59617E0}|Console_Auto_SMS\\Console_Auto_SMS.csproj|solutionrelative:console_auto_sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA4E3AF-8648-4745-83A8-8C777326A271}|Console_SMS\\Console_SMS.csproj|C:\\Users\\CalebLopez\\source\\repos\\VoIP\\console_sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA4E3AF-8648-4745-83A8-8C777326A271}|Console_SMS\\Console_SMS.csproj|solutionrelative:console_sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CalebLopez\\source\\repos\\VoIP\\Console_Auto_SMS\\Program.cs",
+              "RelativeDocumentMoniker": "Console_Auto_SMS\\Program.cs",
+              "ToolTip": "C:\\Users\\CalebLopez\\source\\repos\\VoIP\\Console_Auto_SMS\\Program.cs",
+              "RelativeToolTip": "Console_Auto_SMS\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwHwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:59:01.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CalebLopez\\source\\repos\\VoIP\\Console_SMS\\Program.cs",
+              "RelativeDocumentMoniker": "Console_SMS\\Program.cs",
+              "ToolTip": "C:\\Users\\CalebLopez\\source\\repos\\VoIP\\Console_SMS\\Program.cs",
+              "RelativeToolTip": "Console_SMS\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:04:36.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

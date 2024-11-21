@@ -1,0 +1,7 @@
+C:\Users\CalebLopez\source\repos\VoIP\Console_SMS\obj\Debug\Console_SMS.csproj.AssemblyReference.cache
+C:\Users\CalebLopez\source\repos\VoIP\Console_SMS\obj\Debug\Console_SMS.csproj.CoreCompileInputs.cache
+C:\Users\CalebLopez\source\repos\VoIP\Console_SMS\bin\Debug\Console_SMS.exe.config
+C:\Users\CalebLopez\source\repos\VoIP\Console_SMS\bin\Debug\Console_SMS.exe
+C:\Users\CalebLopez\source\repos\VoIP\Console_SMS\bin\Debug\Console_SMS.pdb
+C:\Users\CalebLopez\source\repos\VoIP\Console_SMS\obj\Debug\Console_SMS.exe
+C:\Users\CalebLopez\source\repos\VoIP\Console_SMS\obj\Debug\Console_SMS.pdb
